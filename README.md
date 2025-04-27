@@ -13,5 +13,5 @@
 
 ## Libraries Used
 
-+ **telegram-bot-api** — библиотека для работы с Telegram API.
-+ **OpenWeatherMap API** — сервис для получения данных о погоде.
++ **telegram-bot-api** — library for working with Telegram API.
++ **OpenWeatherMap API** — service for receiving weather data.
