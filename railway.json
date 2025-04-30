@@ -1,0 +1,11 @@
+{
+    "build": {
+      "builder": "nixpacks",
+      "config": {
+        "nixpacks": {
+          "buildCommand": "go build -o umbrella-alert-go",
+          "startCommand": "./umbrella-alert-go"
+        }
+      }
+    }
+  }
